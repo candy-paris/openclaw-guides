@@ -1,5 +1,8 @@
 # OpenClaw 완전 설치 가이드
 
+[![GitHub stars](https://img.shields.io/github/stars/candy-paris/openclaw-guides?style=social)](https://github.com/candy-paris/openclaw-guides/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/candy-paris/openclaw-guides?style=social)](https://github.com/candy-paris/openclaw-guides/network)
+
 OpenClaw을 처음부터 완전히 설치하고, 무료 AI 모델을 연결하며, Telegram으로 제어하는 방법까지 단계별로 안내합니다.
 
 ---
@@ -45,5 +48,7 @@ OpenClaw을 처음부터 완전히 설치하고, 무료 AI 모델을 연결하�
 - **2026-02-15:** 최초 작성 (OpenClaw 2026.2.14 기준)
 
 ---
+
+**Keywords:** `openclaw`, `installation`, `wsl2`, `openrouter`, `telegram`, `automation`, `ai-assistant`, `self-hosted`, `tutorial`, `guide`
 
 **시작 →** [Part 1: OpenClaw 설치 및 기본 설정](part1-openclaw-install.md)
